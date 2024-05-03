@@ -91,10 +91,12 @@
         },
         {
             "deporte": "Natación",
-            "inicio": "",
+            "inicio": "1940",
             "titulos": [
                 {
-
+                    "Campeonato Argentino": "1946 - Egle Morasca, 2010 - Silvina Janeiro",
+                    "Juegos Panamericanos": "1951 - Ana María Schultz",
+                    "Campeonato Mundial de Aguas Abiertas": "1973 - Angela Marchetti"                    
                 }
             ],
             "historia": ""
@@ -104,6 +106,26 @@
             "inicio": "",
             "titulos": [
                 {
+                    "Yudo": [
+                        {
+
+                        }
+                    ],
+                    "Taekwondo": [
+                        {
+
+                        }
+                    ],
+                    "YinTao": [
+                        {
+
+                        }
+                    ],
+                    "Karate": [
+                        {
+                            
+                        }
+                    ]
 
                 }
             ],
@@ -229,10 +251,10 @@
         },
         {
             "deporte": "Natación",
-            "inicio": "",
+            "inicio": "1940",
             "titulos": [
                 {
-
+                    "Campeonato Panamericano": "2011 - Gabriel Sartoris"
                 }
             ],
             "historia": ""
