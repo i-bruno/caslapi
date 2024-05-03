@@ -32,7 +32,7 @@
         },
         {
             "deporte": "Handball",
-            "inicio": "",
+            "inicio": "1975",
             "titulos": [
                 {
 
@@ -42,7 +42,7 @@
         },
         {
             "deporte": "Tenis",
-            "inicio": "",
+            "inicio": "1931",
             "titulos": [
                 {
 
@@ -52,10 +52,13 @@
         },
         {
             "deporte": "Hockey sobre césped",
-            "inicio": "",
+            "inicio": "1994",
             "titulos": [
                 {
-
+                    "Primera F": "1 (2005)",
+                    "Primera E": "1 (2007)",
+                    "Primera D": "1 (2008)",
+                    "Primera C": "1 (2010)"
                 }
             ],
             "historia": ""
@@ -72,10 +75,16 @@
         },
         {
             "deporte": "Patín artístico",
-            "inicio": "",
+            "inicio": "1930",
             "titulos": [
                 {
-
+                    "Copa Rievens": "1972",
+                    "Campeonato Nacional": "2 (1936, 2006)",
+                    "Juegos Odesur": "2006",
+                    "Juegos Panamericanos de Río de Janeiro": "2007",
+                    "Campeonato del Mundo - Libre": "Giselle Soller - 2011",
+                    "Campeonato del Mundo - Figuras Obligatorias": "Anabella Mendoz - 2015, 2016",
+                    "Juegos Panamericanos": "Anabella Mendoz - 2016"
                 }
             ],
             "historia": ""
@@ -200,10 +209,10 @@
         },
         {
             "deporte": "Hockey sobre patines",
-            "inicio": "",
+            "inicio": "1930",
             "titulos": [
                 {
-
+                    
                 }
             ],
             "historia": ""
