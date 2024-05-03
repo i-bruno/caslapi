@@ -1,12 +1,26 @@
 {
     "ciudadDeportiva": [
         {
-
+            "leyes":[
+                {
+                    "ord_17169": "ORDENANZA N°17.169, CONCEDIENDO UN TERRENO MUNICIPAL AL C.A. SAN LORENZO DE ALMAGRO",
+                    "ley_16729": "Donación de terrenos al Club Atlético San Lorenzo de Almagro"
+                }
+            ],
+            "estadioPedroBidegain":[
+                {
+                    
+                }
+            ]
         }
     ],
     "avenidaLaPlata": [
         {
+            "gasometro": [
+                {
 
+                }
+            ]
         }
     ],
     "sedeSocial": [
