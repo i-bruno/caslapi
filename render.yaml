@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: caslapi
+    env: static
+    build:
+      context: .
+      command: npm run build
+    static:
+      - public
+    routes:
+      - path: /api
+        destination: ./api
+    envVars:
+      - key: DATA_DIR
+        value: /app/data
