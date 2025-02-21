@@ -41,52 +41,47 @@
     ],
     "mayo": [
         {
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":""
+            "15":"En el año 1901 en Buenos Aires nacía Luis Monti quién supo vestir la camiseta del club entre 1922 y 1930, logrando los torneos amateurs de 1923, 1924 y 1927. Campeón del Sudamericano de 1927, Subcampeón con Argentina en el Mundial de 1930, Campeón con Italia del Mundial de 1934 y Medalla Olímpica en los JJOO de Amsterdam 1928.",
+            "16":"En 1965 fallece el ex presidente Eduardo Larrandart quien goberno durante la década del '20 en la institución por la Lista Popular. Construyó las primeras tribunas y cabeceras del Gasómetro y consiguió la personería jurídica."
         }
     ],
     "junio": [
         {
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":""
+            "1":[
+                {
+                    "1917": "En 1917 el club de la mano de Eduardo Larrandart logra tramitar la Personería Jurídica.",
+                    "2012": "En 2012 el primer equipo de fútbol profesional masculino juega el partido de vuelta de la promoción frente a Instituto (Cba) de local en el Estadio Pedro Bidegain consiguiendo la permanencia tras empatar en uno con un gol de penal de Néstor Ortigoza."
+                }],
+            "6":"En 1928 Pedro Bidegain logra la firma del Boleto de Compra-Venta por 186.256 pesos equivalentes a 7760 metros cuadrados de la superficie de Avenida La Plata de la mano.",
+            "23":"En 2016 por la Liga Nacional de Básquet 2015-16 San Lorenzo Basquet derrota 87 - 81 a La Unión de Formosa en el Estadio Héctor Etchart por el cuarto partido de la final, consagrandose de esa manera campeón por primera vez de la Liga Nacional de Basquet. ",
+            "25":"En 1995 en Rosario y con una multitud, San Lorenzo le ganaba 1 a 0 con gol de Esteban 'El Gallego' Gonzalez a Rosario Central y se coronaba campeón del Torneo Clausura de 1995 dandole fin a 21 años de sequía en el fútbol local."
         }
     ],
     "julio": [
         {
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":""
+            "15":"En 2017 por la Liga Nacional de Básquet 2016-17 San Lorenzo Basquet derrota 94 - 59 a Regatas Corrientes en el Polideportivo Roberto Pando por el quinto partido de la final, consagrandose de esa manera bicampeón por primera vez de la Liga Nacional de Basquet y siendo el primer deporte del club en salir campeón en Boedo, tras el éxodo.",
+            "19":"En 1936 el primer equipo de fútbol masculino lograba su segundo título profesional tras vencer por 3 a 2 en condición de visitante a Atlánta faltando una fecha para la finalización de la denominada Copa de Honor."
         }
     ],
     "agosto": [
         {
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":""
+            "4":[
+                {
+                    "1968": "En 1968 en el Estadio de River Plate, San Lorenzo le gana 2 a 1 a Estudiantes de la Plata en tiempo sumplementario por la final del Torneo Metropolitano de 1968 con goles de Veglio y Fischer. De esta manera logra el quinto título profesional de fútbol masculino.",
+                    "1999": "En 1999 por la segunda fecha de la Copa Mercosur 1999 frente a Boca Juniors debuta el mediocampista surgido de las inferiores del club Walter Erviti."
+                }
+            ],
+            "13": "En 2014 con un Estadio Pedro Bidegain repleto, San Lorenzo le gana 1 a 0 a Nacional de Paraguay con un gol de penal de Néstor Ortigoza por el partido de la vuelta de la final de la Copa Libertadores de América y se consagra campeón por primera vez en su historia.",
+            "15": "En 1981 por la última fecha del Campeonato Metropolitano 1981 el primer equipo pierde por uno a cero contra Argentinos Juniors, decretando de esa manera el descenso a la segunda categoría del fútbol argentino."
         }
     ],
     "septiembre": [
         {
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":""
+            "1": "En 2012 se producen las Elecciones Extraordinarias, dando como resultado la victoria de la dupla Lammens-Tinelli por la Agrupación San Lorenzo Siglo XXI.",
+            "22": "En 2015 en Obras Sanitarias frente a Asociación Atlética Quimsa el basquet de San Lorenzo vuelve a competir en la máxima categoría nacional después de 40 años, tras descender en la temporada de 1985.",
+            "26": "En 2002 debuta en la primera del club el defensor surgido de las inferiores Pablo Zabaleta en la goleada por 5 a 1 frente a Monagas por la Copa Sudamericana 2002.",
+            "28": "En 2000 por la quinta fecha de la Copa Mercosur 2000 frente a Vasco da Gama debuta el arquero surgido de las inferiores del club Sebastián Saja.",
+            "30": "En 1972 tras empatar 1 - 1 contra Boca Juniors, el primer equipo de fútbol masculino se consagra campeón del Campeonato Metropolitano 1972. El club consigue su sexto título profesional."
         }
     ],
     "octubre": [
@@ -101,22 +96,34 @@
     ],
     "noviembre": [
         {
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":""
+            "2":"En 2019 el hockey sobre césped femenino del club en la Ciudad Deportiva le gana 2 a 0 a San Cirano por el Torneo Metropolitano B, consiguiendo el ascenso a la máxima categoría de dicha disciplina.",
+            "3":"En 1963 en la fecha número 23 del Campeonato de Primera División 1963 hace su primera aparición el mediocampista Héctor Rodolfo Veira surgido de las inferiores del club. Fue victoria para el equipo de Boedo frente a Vélez Sarsfield por 3 a 0.",
+            "6":"En 1982 haciendo de local en la cancha de Velez Sarfield y faltando dos fechas para la finalización del Campeonato de Primera División B de 1982 el club le gana 1 a 0 a El Porvenir logrando de esta manera el retorno a la primera división argentina.",
+            "15":[{
+                "1953":"En 1953 por la fecha 29 del Campeonato de Primera División 1953 en Rosario, debuta con la casaca azulgrana José 'El Nene' Sanfilippo goleador histórico del club en un partido contra Newell's en donde el ciclón se impone 1 a 0.",
+                "1998":"En 1998 por la fecha 15 del Torneo Apertura 1998 frente a Gimnasia (LP) debuta en el primer equipo de fútbol masculino Bernardo Romeo.",
+                "2012":"En 2012 la legislatura porteña sesionaba y aprobaba por unanimidad la Ley de Restitución Histórica que le permite a San Lorenzo retornar a los antiguos terrenos de Avenida La Plata al 1700 donde alguna vez se emplazó el Gasómetro."
+            }],
+            "19":"En 1933 el primer equipo de fútbol masculino le gana a Chacarita Juniors por el Campeonato de Primera División 1933 por 1 a 0, consagrandose campeón por primera vez en la era profesional.",
+            "22":"En 1959 tras ganarle por 3 a 1 a Boca Juniors, el primer equipo de fútbol masculino se consagra campeón del Campeonato de Primera División 1959, dándole al club el cuarto título profesional.",
+            "27":"En 2002 (hace 23 años) el club visitaba a Atlético Nacional por el partido de ida de la Copa Sudamericana 2002 ganandole 4 a 0 con goles de: Sebastián Saja, Pablo Michelini, Leandro Romagnoli y Rodrigo Astudillo"
         }
     ],
     "diciembre": [
         {
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":"",
-            "":""
+            "2":"En 1979 se juega el último partido en el Gasómetro frente a Boca Juniors con un empate en cero.",
+            "6":"En 2019 el voley femenino del club juega la tercer final del Campeonato Oficial de la División de Honor Femenina 2019, imponiendose ante River Plate 3 - 1, en un colmado Polideportivo Roberto Pando",
+            "8":"En 1946 tras ganarle 1 - 3 a Ferrocarril Oeste de visitante por la última fecha del Campeonato de Primera División 1946 el equipo se consagra campeón del fútbol argentino consiguiendo su tercer título profesional.",
+            "11":"En 1993 por la decimocuarta fecha del Torneo Apertura 1993 frente a River Plate debuta el defensor surgido de las inferiores del club Eduardo Tuzzio.",
+            "12":"En 2013 el primer equipo de fútbol masculino se consagra campeón del Torneo Inicial 2013 de la mano del entrenador Juan Antonio Pizzi.",
+            "13":[{
+                "1975":"En 1975 León Gieco, Arco Iris, Raúl Porchetto entre otros mas artistas del rock nacional hacen presencia en el festival Adios Rock celebrado en el Estadio Gasómetro de Avenida La Plata.",
+                "1998":"En 1998 por la ultima fecha del Torneo Apertura 1998, debuta el mediocampista Leandro Romagnoli con una derrota 3 a 2 frente a Racing Club de Avellaneda."
+            }],
+            "16":"En 1993 en una fiesta sanlorencista se juega un amistoso frente a Universidad Católica de Chile inaugurando el nuevo Estadio Pedro Bidegain.",
+            "17":"En 1972 tras vencer a River Plate 1 - 0 en una final jugada en el Estadio José Amalfitani, el primer equipo de fútbol masculino se consagra campeón del Campeonato Nacional 1972, consiguiendo ser el primer bicampeón del fútbol argentino.",
+            "21":"En 1943 San Lorenzo enfrenta en cancha de Chacarita Juniors a General Paz Juniors (Córdoba) por la Final de la Copa General Pedro Pablo Ramírez 1943 ganando 8 a 3.",
+            "28":"En 1975 por la última fecha del Campeonato Nacional 1975 el delantero Héctor Scotta le convierte dos goles a Gimnasia de Jujuy alcanzando de esta manera la marca récord del fútbol argentino de 60 goles en un año."
         }
     ]
 }
