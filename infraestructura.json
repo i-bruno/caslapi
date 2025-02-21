@@ -3,8 +3,10 @@
         {
             "leyes":[
                 {
-                    "ord_17169": "ORDENANZA N°17.169, CONCEDIENDO UN TERRENO MUNICIPAL AL C.A. SAN LORENZO DE ALMAGRO",
-                    "ley_16729": "Donación de terrenos al Club Atlético San Lorenzo de Almagro"
+                    "ord_17169": "Ordenanza que le concede el terreno del denominado Parque Almirante Brown al Club",
+                    "ley_16729": "Donación de terrenos al Club Atlético San Lorenzo de Almagro",
+                    "ord_20777": "Firmada el 21 de octubre de 1965, es la donación definitiva de los terrenos del Parque Almirante Brown al Club.",
+                    "ord_35172": "Firmada el 28 de agosto de 1979, el intendente de facto Osvaldo Cacciatore buscó dejar sin efecto el traspaso de los terrenos del Parque Almirante Brown, aduciendo falta de predisposición y desinterés por parte de la institución para llevar a cabo las obras requeridas que exigía la Ordenanza N° 20.777"
                 }
             ],
             "estadioPedroBidegain":[
@@ -16,6 +18,19 @@
     ],
     "avenidaLaPlata": [
         {
+            "leyes":[
+                {
+                    "ord_35637": "Firmada el 24 de marzo de 1980, celebra un convenio entre la municipalidad y el club, en donde este último cede 4500 metros cuadrados para la construcción de un complejo urbanístico y una escuela.",
+                    "ord_36019": "",
+                    "ord_38696": "La Ordenanza Municipal N° 38.696 es promulgada el 9 de Febrero de 1983 y tuvo por objetivo la derogación de las proyectadas aperturas de calles Muñiz y Salcedo estipuladas según Ordenanza N° 36.019.",
+                    "ord_40674": "Ordenanza aprobada el 25 de julio de 1985, que afectaba al predio de Av La Plata a la construcción de un supermercado total",
+                    "ley_4384": "Ley de Restitución Histórica: Aprobada el 15 de diciembre de 2012, devuelve los terrenos de Av la Plata al club."
+                }
+            ]
+        },
+            
+        
+        {
             "gasometro": [
                 {
 
@@ -25,30 +40,78 @@
     ],
     "sedeSocial": [
         {
+            "leyes":[
+                {
+                    "": "",
+                    "": ""
+                }
+            ]
+        },
+        {
 
         }
     ],
     "rivadavia": [
+        {
+            "leyes":[
+                {
+                    "": "",
+                    "": ""
+                }
+            ]
+        },
         {
 
         }
     ],
     "puertoMadero": [
         {
+            "leyes":[
+                {
+                    "": "",
+                    "": ""
+                }
+            ]
+        },
+        {
 
         }
     ],
     "avMayo": [
+        {
+            "leyes":[
+                {
+                    "": "",
+                    "": ""
+                }
+            ]
+        },
         {
 
         }
     ],
     "riestra": [
         {
+            "leyes":[
+                {
+                    "": "",
+                    "": ""
+                }
+            ]
+        },
+        {
             
         }
     ],
     "pando": [
+        {
+            "leyes":[
+                {
+                    "ley_2464": "Sancionada el 11 de octubre del 2007, deroga las ordenanzas N° 36.019, 35.637 y 40.674 y restituye el predio de la ex plaza Lorenzo Massa donde el Club construyó el Polideportivo Roberto Pando",
+                    "ley_3401": "Dicha ley celebró un convenio entre el Gobierno de la Ciudad de Buenos Aires y el Club para la construcción de un Microestadio en el espacio que ocupaba la ex plaza Lorenzo Massa."
+                }
+            ]
+        },
         {
             
         }
