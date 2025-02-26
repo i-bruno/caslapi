@@ -26,6 +26,11 @@ async function cargarDatos() {
     datosInfra = await cargarJSON("/data/infraestructura.json");
     datosEstatuto = await cargarJSON("/data/estatuto.json");
 
+    datosDeportes = datosDeportes.deportes || [];
+    datosHistoria = datosHistoria.historia || [];
+    datosInfra = datosInfra.infraestructura || [];
+    datosEstatuto = datosEstatuto.estatuto || [];
+
     console.log("Deportes:", datosDeportes);
     console.log("Historia:", datosHistoria);
     console.log("Infraestructura:", datosInfra);
