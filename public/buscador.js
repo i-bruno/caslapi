@@ -21,10 +21,10 @@ async function cargarJSON(url) {
 
 // Cargar todos los JSON al iniciar
 async function cargarDatos() {
-    datosDeportes = await cargarJSON("deportes.json");
-    datosHistoria = await cargarJSON("historia.json");
-    datosInfra = await cargarJSON("infraestructura.json");
-    datosEstatuto = await cargarJSON("estatuto.json");
+    datosDeportes = await cargarJSON("/data/deportes.json");
+    datosHistoria = await cargarJSON("/data/historia.json");
+    datosInfra = await cargarJSON("/data/infraestructura.json");
+    datosEstatuto = await cargarJSON("/data/estatuto.json");
 }
 
 // Llamar a la función al cargar la página
