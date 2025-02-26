@@ -50,10 +50,10 @@ function buscarEnJson() {
 
     // Combinar todos los datos en un solo array
     const todosLosDatos = [
-        ...datosDeportes, 
-        ...datosHistoria, 
-        ...datosInfra, 
-        ...datosEstatuto
+        ...(Array.isArray(datosDeportes) ? datosDeportes : []), 
+        ...(Array.isArray(datosHistoria) ? datosHistoria : []), 
+        ...(Array.isArray(datosInfra) ? datosInfra : []), 
+        ...(Array.isArray(datosEstatuto) ? datosEstatuto : [])
     ];
 
     // Filtrar los datos que contengan el término
