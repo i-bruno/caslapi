@@ -25,6 +25,11 @@ async function cargarDatos() {
     datosHistoria = await cargarJSON("/data/historia.json");
     datosInfra = await cargarJSON("/data/infraestructura.json");
     datosEstatuto = await cargarJSON("/data/estatuto.json");
+
+    console.log("Deportes:", datosDeportes);
+    console.log("Historia:", datosHistoria);
+    console.log("Infraestructura:", datosInfra);
+    console.log("Estatuto:", datosEstatuto);
 }
 
 // Llamar a la función al cargar la página
