@@ -5,9 +5,19 @@ let datosEstatuto = [];
 
 // Función para cargar JSON
 async function cargarJSON(url) {
-    const respuesta = await fetch(url);
-    return respuesta.json();
+    try {
+        const respuesta = await fetch(url);
+        if (!respuesta.ok) throw new Error(`Error al cargar ${url}: ${respuesta.status}`);
+        
+        const texto = await respuesta.text(); // Leer el contenido como texto
+        return JSON.parse(texto); // Intentar convertirlo a JSON
+
+    } catch (error) {
+        console.error("Error cargando JSON:", error);
+        return []; // Retornar un array vacío para evitar que falle la app
+    }
 }
+
 
 // Cargar todos los JSON al iniciar
 async function cargarDatos() {
