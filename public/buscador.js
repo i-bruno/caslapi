@@ -4,38 +4,70 @@ let datosInfra = [];
 let datosEstatuto = [];
 
 // Función para cargar JSON
+// async function cargarJSON(url) {
+//     try {
+//         const respuesta = await fetch(url);
+//         if (!respuesta.ok) throw new Error(`Error al cargar ${url}: ${respuesta.status}`);
+        
+//         const texto = await respuesta.text(); // Leer el contenido como texto
+//         return JSON.parse(texto); // Intentar convertirlo a JSON
+
+//     } catch (error) {
+//         console.error("Error cargando JSON:", error);
+//         return []; // Retornar un array vacío para evitar que falle la app
+//     }
+// }
+
 async function cargarJSON(url) {
     try {
         const respuesta = await fetch(url);
         if (!respuesta.ok) throw new Error(`Error al cargar ${url}: ${respuesta.status}`);
         
-        const texto = await respuesta.text(); // Leer el contenido como texto
-        return JSON.parse(texto); // Intentar convertirlo a JSON
-
+        return await respuesta.json(); // Convertir directamente a JSON
     } catch (error) {
         console.error("Error cargando JSON:", error);
-        return []; // Retornar un array vacío para evitar que falle la app
+        return {}; // Devolver un objeto vacío en vez de un array
     }
 }
 
 
+
 // Cargar todos los JSON al iniciar
+// async function cargarDatos() {
+//     datosDeportes = await cargarJSON("/data/deportes.json");
+//     datosHistoria = await cargarJSON("/data/historia.json");
+//     datosInfra = await cargarJSON("/data/infraestructura.json");
+//     datosEstatuto = await cargarJSON("/data/estatuto.json");
+
+//     datosDeportes = datosDeportes.deportes || [];
+//     datosHistoria = datosHistoria.historia || [];
+//     datosInfra = datosInfra.infraestructura || [];
+//     datosEstatuto = datosEstatuto.estatuto || [];
+
+//     console.log("Deportes:", datosDeportes);
+//     console.log("Historia:", datosHistoria);
+//     console.log("Infraestructura:", datosInfra);
+//     console.log("Estatuto:", datosEstatuto);
+// }
+
 async function cargarDatos() {
+    console.log("Cargando datos...");
+
     datosDeportes = await cargarJSON("/data/deportes.json");
     datosHistoria = await cargarJSON("/data/historia.json");
     datosInfra = await cargarJSON("/data/infraestructura.json");
     datosEstatuto = await cargarJSON("/data/estatuto.json");
+
+    console.log("JSON crudos:", { datosDeportes, datosHistoria, datosInfra, datosEstatuto });
 
     datosDeportes = datosDeportes.deportes || [];
     datosHistoria = datosHistoria.historia || [];
     datosInfra = datosInfra.infraestructura || [];
     datosEstatuto = datosEstatuto.estatuto || [];
 
-    console.log("Deportes:", datosDeportes);
-    console.log("Historia:", datosHistoria);
-    console.log("Infraestructura:", datosInfra);
-    console.log("Estatuto:", datosEstatuto);
+    console.log("Datos procesados:", { datosDeportes, datosHistoria, datosInfra, datosEstatuto });
 }
+
 
 // Llamar a la función al cargar la página
 cargarDatos();
