@@ -60,10 +60,11 @@ async function cargarDatos() {
 
     console.log("JSON crudos:", { datosDeportes, datosHistoria, datosInfra, datosEstatuto });
 
-    datosDeportes = datosDeportes.deportes || [];
-    datosHistoria = datosHistoria.historia || [];
-    datosInfra = datosInfra.infraestructura || [];
-    datosEstatuto = datosEstatuto.estatuto || [];
+    datosDeportes = Array.isArray(datosDeportes) ? datosDeportes : datosDeportes.deportes || [];
+    datosHistoria = Array.isArray(datosHistoria) ? datosHistoria : datosHistoria.historia || [];
+    datosInfra = Array.isArray(datosInfra) ? datosInfra : datosInfra.infraestructura || [];
+    datosEstatuto = Array.isArray(datosEstatuto) ? datosEstatuto : datosEstatuto.estatuto || [];
+    
 
     console.log("Datos procesados:", { datosDeportes, datosHistoria, datosInfra, datosEstatuto });
 }
