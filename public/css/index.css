@@ -63,14 +63,20 @@
     text-decoration: inherit;
 }
 
+.menu{
+  background-color: none;
+  border: none;
+  color: inherit;
+  text-decoration: inherit;
+}
 
-button{
+/* button{
     background-color: #263d54;
     font-weight: bold;
     color: white;
     border-radius: 5px!important;
     padding: 5px;
-}
+} */
 
 /* Diseños responsives */
 @media (min-width: 720px) {
