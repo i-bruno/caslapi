@@ -64,10 +64,13 @@
 }
 
 .menu{
-  background-color: none;
+  background-color: unset;
   border: none;
-  color: inherit;
-  text-decoration: inherit;
+}
+
+.menu:hover{
+  text-decoration: solid;
+  text-decoration-color: #bf1b27;
 }
 
 /* button{
