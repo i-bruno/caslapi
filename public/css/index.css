@@ -65,7 +65,7 @@
     margin: 1rem;
 }
 
-.cajaBusqueda->a{
+.cajaBusqueda > a{
     color: inherit;
     text-decoration: inherit;
 }
