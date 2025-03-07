@@ -149,7 +149,53 @@
                 }
             ],
             "articulo 30": "El grupo familiar se conforma con por lo menos cuatro socios distribuídos en uno o dos progenitores e hijos. Tienen derecho a los beneficios que la Comisión Directiva establezca, siempre que se acredite que el pago de las cuotas mensuales es afrontado en por un único patrimonio.",
-            "articulo 31": "31.1 De la conformidad con lo que dispone este estatuto, su reglamentación y las resoluciones especiales que para cada deporte y espectáculo dicte la Comisión Directiva, el socio vitalicio y activo puede: Ser miembro de la Asamblea de representantes, de la Comisión Directiva, de la Comisión Fiscalizadora, del Tribunal de Ética y Disciplina, y de las comisiones internas. Elegir a los miembros de la Asamblea de representantes, de la Comisión Directiva y de la Comisión Fiscalizadora. Tener libre acceso a los lugares que la Comisión Directiva habilite al efecto cuando equipos representativos del CASLA intervengan en campeonatos oficiales organizados por la Asociación del Fútbol Argentino. En torneos internacionales y demás casos, abonarán el precio que fije la Comisión Directiva, respetando los cupos que ésta última establezca. Tener libre acceso a las instalaciones sociales siempre que no se cobre entrada. Hacer uso de la biblioteca y de los cursos que el CASLA dicte. Hacer conocer los locales y dependencias a personas no asociadas, en días que no se cobre entrada y previa autorización de la Intendencia. Asistir a las reuniones de Comisión Directiva. Peticionar a las autoridades y proponer por escrito las iniciativas que considere conveniente para la marcha del Club Atlético San Lorenzo de Almagro. Previa solicitud por escrito a la Comisión Directiva, podrán examinar los libros de la Institución en el local social. 31.2 Los socios cadete e infantil tienen los derechos enumerados en los incisos c), d) y e) del artículo anterior. El socio cadete de 16 años cumplidos, tienen los derechos enumerados en el inciso b) del artículo anterior, siempre que cumpla con el requisito de poseer cuatro (4) años ininterrumpidos en calidad de socio. 31.3 Además de los derechos enumerados, el socio de cualquier categoría, puede practicar los deportes que sostenga el Club Atlético San Lorenzo de Almagro en las condiciones que fijen los reglamentos que se dicten. 31.4 El Socio patrimonial, además de los privilegios que le acuerda este estatuto y sin perjuicio de otros que la Comisión Directiva establezca, goza de los siguientes derechos preferenciales: Abonar una cuota de cincuenta por ciento (50%) de la fijada para subcategoría de socio pleno correspondiente a su misma categoría de socio, salvo que su domicilio esté a mas de cien (100) kilómetros de la Ciudad Autónoma de Buenos Aires, en cuyo caso no abona cuota alguna. El socio poseedor de más de un título pagará la cuota social correspondiente a uno solo. En el Estadio Pedro Bidegain y/o en el que se construya en el predio de avenida La Plata, puede elegir en primer término, con respecto a los demás socios y de acuerdo al número de órden de la emisión del título, la ubicación de la platea y/o palco al que desee suscribirse, mediante el pago del valor del abono anual con un veinticinco (25) por ciento de descuento, durante todo el tiempo que sea titular del título.",
+            "articulo 31": [
+                {
+                    "31.1": "De la conformidad con lo que dispone este estatuto, su reglamentación y las resoluciones especiales que para cada deporte y espectáculo dicte la Comisión Directiva, el socio vitalicio y activo puede:"
+                },
+                {
+                    "A": "Ser miembro de la Asamblea de representantes, de la Comisión Directiva, de la Comisión Fiscalizadora, del Tribunal de Ética y Disciplina, y de las comisiones internas."
+                },
+                {
+                    "B": "Elegir a los miembros de la Asamblea de representantes, de la Comisión Directiva y de la Comisión Fiscalizadora."
+                },
+                {
+                    "C": "Tener libre acceso a los lugares que la Comisión Directiva habilite al efecto cuando equipos representativos del CASLA intervengan en campeonatos oficiales organizados por la Asociación del Fútbol Argentino. En torneos internacionales y demás casos, abonarán el precio que fije la Comisión Directiva, respetando los cupos que ésta última establezca."
+                },
+                {
+                    "D": "Tener libre acceso a las instalaciones sociales siempre que no se cobre entrada."
+                },
+                {
+                    "E": "Hacer uso de la biblioteca y de los cursos que el CASLA dicte."
+                },
+                {
+                    "F": "Hacer conocer los locales y dependencias a personas no asociadas, en días que no se cobre entrada y previa autorización de la Intendencia."
+                },
+                {
+                    "G": "Asistir a las reuniones de Comisión Directiva."
+                },
+                {
+                    "H": "Peticionar a las autoridades y proponer por escrito las iniciativas que considere conveniente para la marcha del Club Atlético San Lorenzo de Almagro."
+                },
+                {
+                    "I": "Previa solicitud por escrito a la Comisión Directiva, podrán examinar los libros de la Institución en el local social."
+                },
+                {
+                    "31.2": " Los socios cadete e infantil tienen los derechos enumerados en los incisos c), d) y e) del artículo anterior. El socio cadete de 16 años cumplidos, tienen los derechos enumerados en el inciso b) del artículo anterior, siempre que cumpla con el requisito de poseer cuatro (4) años ininterrumpidos en calidad de socio."
+                },
+                {
+                    "31.3": "Además de los derechos enumerados, el socio de cualquier categoría, puede practicar los deportes que sostenga el Club Atlético San Lorenzo de Almagro en las condiciones que fijen los reglamentos que se dicten."
+                },
+                {
+                    "31.4": " El Socio patrimonial, además de los privilegios que le acuerda este estatuto y sin perjuicio de otros que la Comisión Directiva establezca, goza de los siguientes derechos preferenciales:"
+                },
+                {
+                    "A": "Abonar una cuota de cincuenta por ciento (50%) de la fijada para subcategoría de socio pleno correspondiente a su misma categoría de socio, salvo que su domicilio esté a mas de cien (100) kilómetros de la Ciudad Autónoma de Buenos Aires, en cuyo caso no abona cuota alguna. El socio poseedor de más de un título pagará la cuota social correspondiente a uno solo."
+                },
+                {
+                    "B": "En el Estadio Pedro Bidegain y/o en el que se construya en el predio de avenida La Plata, puede elegir en primer término, con respecto a los demás socios y de acuerdo al número de órden de la emisión del título, la ubicación de la platea y/o palco al que desee suscribirse, mediante el pago del valor del abono anual con un veinticinco (25) por ciento de descuento, durante todo el tiempo que sea titular del título."
+                }
+            ],
             "articulo 32": "Son obligaciones del socio: Conocer, cumplir y respetar este estatuto, los reglamentos internos en vigor y las resoluciones de la Asamblea de representantes y la Comisión Directiva. Ejercer todos los derechos que le otorga su condición de socio con la dignidad y respeto que merecen la imagen, el buen nombre y la proyección pública de la entidad y, en lo referente a los derechos de participación en las actividades del Club y a los de libre expresión y manifestación, obrar con el respeto al honor, a la dignidad y a la intimidad que merecen los otros socios, asambleístas, directivos, deportistas, jugadores, técnicos y empleados, o cualquier otra persona vinculada al club. Difundir el espíritu de compañerismo entre los asociados. Pagar por adelantado la cuota mensual y las demás obligaciones ordinarias y extraordinarias que fija la Asamblea de representantes y en su caso el importe de las cuotas sociales de los títulos patrimoniales. Constituir domicilio especial en la Ciudad Autónoma de Buenos Aires cuando viviera a mas de 100 kilómetros de ella, a los fines de pagar en él sus cuotas mensuales, que de otra forma pagará en Tesorería; o encontrarse adherido a sistemas bancarios, financieros o de entidades afines que permitan percibir el pago de dichas cuotas mediante los sistemas de débito automático o sistema de pago y/o cualquiera otro creado o a crearse en el futuro que posibilite dicha recaudación a favor del CASLA. Mantener actualizado ante la Secretaría General su domicilio real, debiendo comunicar por escrito todo cambio que de él realice. El domicilio real denunciado por el socio será considerado domicilio especial para todas las comunicaciones que el CASLA deba dirigirle por vías postal o telegráfica al socio. Exhibir el carné social personal e intransferible, con el recibo del mes en los casos que corresponda a pago mensual por ventanilla, cada vez que entre a los locales e instalaciones de la institución o le sea exigido por miembros de la Comisión Directiva. Comunicar en el término de cinco (5) días hábiles a la Secretaría, la pérdida del carné social. Aceptar -salvo impedimento justificado- las designaciones que le haga la Asamblea de representantes o la Comisión Directiva. Presentar por escrito su renuncia cuando deseare dejar de ser socio, debiendo estar al día con la Tesorería. Ser responsable de cualquier deterioro o perjuicio material que pudiera ocasionar a la Institución, responsabilidad que se extiende a los padres, madres, tutores o guardadores del socio menor de edad, de acuerdo a la legislación civil, debiendo resarcir al club por los daños y perjuicios debidamente comprobadas causados al patrimonio social como consecuencia de acciones u omisiones.",
             "articulo 33": "Es potestad del club la corrección de las infracciones de la disciplina deportiva y asociativa que se produzcan con ocasión o a consecuencia del desarrollo de sus actividades.Bajo un procedimiento único que asegure en todos los casos el derecho de defensa y el secreto de sumario, el socio puede ser sancionado con: Amonestación Cesantía Suspensión Expulsión Inhabilitación como accesoria De la sanción se deja constancia en el libro de asociados, legajo personal y/o cualquier otro medio manual o digital que se lleve por parte del Departamento de Socios u órgano que haga sus veces.",
             "articulo 34": "El sumario será iniciado en todos los casos por denuncia de algún socio o decisión de los órganos de gobierno, debiendo darse intervención al Tribunal de Ética y Disciplina para que instruya el sumario correspondiente.",
