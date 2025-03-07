@@ -13,7 +13,7 @@
     justify-content: center;
     align-items: center;
   } */
-
+  flex flex-wrap items-center justify-center text-gray-900 m-4
   .header{
     display: flex;
     justify-content: space-between;
@@ -23,12 +23,25 @@
     border-right: 0;
     border: solid;
     border-color: #263d54;
+    ul{
+        display:flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        margin: 4p;
+        li{
+            position: relative;
+            float: left;
+            list-style-type: none;
+        }
+    }
 }
 button{
     background-color: #263d54;
     font-weight: bold;
     color: white;
     border-radius: 5px;
+    padding: 5px;
 }
 
 /* Diseños responsives */
