@@ -68,7 +68,7 @@
   border: none;
 }
 
-.menu:hover{
+button:hover{
   text-decoration: solid;
   text-decoration-color: #bf1b27;
 }
