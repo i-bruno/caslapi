@@ -16,7 +16,7 @@
 
   .header{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     border-bottom: solid #263d54;
 }
 
@@ -44,7 +44,6 @@
     align-items: center;
     justify-content: center;
     background-color: #e2e8f0;
-    border-style: solid;
     border-bottom: solid #bf1b27;
 }
 
