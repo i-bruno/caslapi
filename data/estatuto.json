@@ -196,17 +196,196 @@
                     "B": "En el Estadio Pedro Bidegain y/o en el que se construya en el predio de avenida La Plata, puede elegir en primer término, con respecto a los demás socios y de acuerdo al número de órden de la emisión del título, la ubicación de la platea y/o palco al que desee suscribirse, mediante el pago del valor del abono anual con un veinticinco (25) por ciento de descuento, durante todo el tiempo que sea titular del título."
                 }
             ],
-            "articulo 32": "Son obligaciones del socio: Conocer, cumplir y respetar este estatuto, los reglamentos internos en vigor y las resoluciones de la Asamblea de representantes y la Comisión Directiva. Ejercer todos los derechos que le otorga su condición de socio con la dignidad y respeto que merecen la imagen, el buen nombre y la proyección pública de la entidad y, en lo referente a los derechos de participación en las actividades del Club y a los de libre expresión y manifestación, obrar con el respeto al honor, a la dignidad y a la intimidad que merecen los otros socios, asambleístas, directivos, deportistas, jugadores, técnicos y empleados, o cualquier otra persona vinculada al club. Difundir el espíritu de compañerismo entre los asociados. Pagar por adelantado la cuota mensual y las demás obligaciones ordinarias y extraordinarias que fija la Asamblea de representantes y en su caso el importe de las cuotas sociales de los títulos patrimoniales. Constituir domicilio especial en la Ciudad Autónoma de Buenos Aires cuando viviera a mas de 100 kilómetros de ella, a los fines de pagar en él sus cuotas mensuales, que de otra forma pagará en Tesorería; o encontrarse adherido a sistemas bancarios, financieros o de entidades afines que permitan percibir el pago de dichas cuotas mediante los sistemas de débito automático o sistema de pago y/o cualquiera otro creado o a crearse en el futuro que posibilite dicha recaudación a favor del CASLA. Mantener actualizado ante la Secretaría General su domicilio real, debiendo comunicar por escrito todo cambio que de él realice. El domicilio real denunciado por el socio será considerado domicilio especial para todas las comunicaciones que el CASLA deba dirigirle por vías postal o telegráfica al socio. Exhibir el carné social personal e intransferible, con el recibo del mes en los casos que corresponda a pago mensual por ventanilla, cada vez que entre a los locales e instalaciones de la institución o le sea exigido por miembros de la Comisión Directiva. Comunicar en el término de cinco (5) días hábiles a la Secretaría, la pérdida del carné social. Aceptar -salvo impedimento justificado- las designaciones que le haga la Asamblea de representantes o la Comisión Directiva. Presentar por escrito su renuncia cuando deseare dejar de ser socio, debiendo estar al día con la Tesorería. Ser responsable de cualquier deterioro o perjuicio material que pudiera ocasionar a la Institución, responsabilidad que se extiende a los padres, madres, tutores o guardadores del socio menor de edad, de acuerdo a la legislación civil, debiendo resarcir al club por los daños y perjuicios debidamente comprobadas causados al patrimonio social como consecuencia de acciones u omisiones.",
-            "articulo 33": "Es potestad del club la corrección de las infracciones de la disciplina deportiva y asociativa que se produzcan con ocasión o a consecuencia del desarrollo de sus actividades.Bajo un procedimiento único que asegure en todos los casos el derecho de defensa y el secreto de sumario, el socio puede ser sancionado con: Amonestación Cesantía Suspensión Expulsión Inhabilitación como accesoria De la sanción se deja constancia en el libro de asociados, legajo personal y/o cualquier otro medio manual o digital que se lleve por parte del Departamento de Socios u órgano que haga sus veces.",
+            "articulo 32": [
+                {
+                    "p1": "Son obligaciones del socio:"
+                },
+                {
+                    "A": "Conocer, cumplir y respetar este estatuto, los reglamentos internos en vigor y las resoluciones de la Asamblea de representantes y la Comisión Directiva."
+                },
+                {
+                    "B": "Ejercer todos los derechos que le otorga su condición de socio con la dignidad y respeto que merecen la imagen, el buen nombre y la proyección pública de la entidad y, en lo referente a los derechos de participación en las actividades del Club y a los de libre expresión y manifestación, obrar con el respeto al honor, a la dignidad y a la intimidad que merecen los otros socios, asambleístas, directivos, deportistas, jugadores, técnicos y empleados, o cualquier otra persona vinculada al club."
+                },
+                {
+                    "C": "Difundir el espíritu de compañerismo entre los asociados."
+                },
+                {
+                    "D": "Pagar por adelantado la cuota mensual y las demás obligaciones ordinarias y extraordinarias que fija la Asamblea de representantes y en su caso el importe de las cuotas sociales de los títulos patrimoniales."
+                },
+                {
+                    "E": "Constituir domicilio especial en la Ciudad Autónoma de Buenos Aires cuando viviera a mas de 100 kilómetros de ella, a los fines de pagar en él sus cuotas mensuales, que de otra forma pagará en Tesorería; o encontrarse adherido a sistemas bancarios, financieros o de entidades afines que permitan percibir el pago de dichas cuotas mediante los sistemas de débito automático o sistema de pago y/o cualquiera otro creado o a crearse en el futuro que posibilite dicha recaudación a favor del CASLA."
+                },
+                {
+                    "F": "Mantener actualizado ante la Secretaría General su domicilio real, debiendo comunicar por escrito todo cambio que de él realice. El domicilio real denunciado por el socio será considerado domicilio especial para todas las comunicaciones que el CASLA deba dirigirle por vías postal o telegráfica al socio"
+                },
+                {
+                    "G": "Exhibir el carné social personal e intransferible, con el recibo del mes en los casos que corresponda a pago mensual por ventanilla, cada vez que entre a los locales e instalaciones de la institución o le sea exigido por miembros de la Comisión Directiva."
+                },
+                {
+                    "H": "Comunicar en el término de cinco (5) días hábiles a la Secretaría, la pérdida del carné social. "
+                },
+                {
+                    "I": "Aceptar -salvo impedimento justificado- las designaciones que le haga la Asamblea de representantes o la Comisión Directiva."
+                },
+                {
+                    "J": "Presentar por escrito su renuncia cuando deseare dejar de ser socio, debiendo estar al día con la Tesorería."
+                },
+                {
+                    "K": "Ser responsable de cualquier deterioro o perjuicio material que pudiera ocasionar a la Institución, responsabilidad que se extiende a los padres, madres, tutores o guardadores del socio menor de edad, de acuerdo a la legislación civil, debiendo resarcir al club por los daños y perjuicios debidamente comprobadas causados al patrimonio social como consecuencia de acciones u omisiones."
+                }
+            ],
+            "articulo 33": [
+                {
+                    "p1": "Es potestad del club la corrección de las infracciones de la disciplina deportiva y asociativa que se produzcan con ocasión o a consecuencia del desarrollo de sus actividades.Bajo un procedimiento único que asegure en todos los casos el derecho de defensa y el secreto de sumario, el socio puede ser sancionado con:"
+                },
+                {
+                    "A": "Amonestación"
+                },
+                {
+                    "B": "Cesantía "
+                },
+                {
+                    "C": "Suspensión "
+                },
+                {
+                    "D": "Expulsión "
+                },
+                {
+                    "E": "Inhabilitación como accesoria"
+                },
+                {
+                    "p2": "De la sanción se deja constancia en el libro de asociados, legajo personal y/o cualquier otro medio manual o digital que se lleve por parte del Departamento de Socios u órgano que haga sus veces."
+                }
+            ],
             "articulo 34": "El sumario será iniciado en todos los casos por denuncia de algún socio o decisión de los órganos de gobierno, debiendo darse intervención al Tribunal de Ética y Disciplina para que instruya el sumario correspondiente.",
-            "articulo 35": "35.1 Son infracciones leves sancionadas con amonestación: Desacato a las resoluciones de la Asamblea de representantes o de la Comisión Directiva, siempre que no constituyan infracciones más graves. Trasgresión de las obligaciones y prohibiciones estatutarias. 35.2 Son infracciones graves sancionadas con suspensión o cesantía: Reincidencia en las causales del inciso anterior. Ceder de cualquier manera a un tercero, el carné o título que permita el acceso a un acontecimiento deportivo organizado por el club, o en el que éste participe el club. Agredir física o verbalmente a otro asociado o cualquier otra persona en las instalaciones o recintos del club. Encontrarse sometido a proceso por delito o contravención cometido en perjuicio de la institución. Incumplimiento en el pago de seis (6) cuotas mensuales consecutivas. El socio incurrirá en mora automática en su pago por el mero vencimiento del plazo fijado para el mismo, sin necesidad de notificación, intimación ni requerimiento de ningún tipo. La falta de requerimiento del pago no constituirá excusa eficiente al cumplimiento de esta obligación. La antigüedad como socio no se logra con el pago de cuotas anticipadas ni se recupera con el pago de cuotas vencidas o impagas si fuese dado de baja. No pagar el resarcimiento por daños o pérdidas que ocasione o de los que sea responsable con motivo del mal uso de las dependencias, elementos y otros bienes patrimoniales para la práctica de los deportes y de la biblioteca, ya sea que se trate del mismo socio o invitado traído por él. 35.3 Son infracciones muy graves sancionadas con expulsión: Reincidencia en nuevas faltas disciplinarias cuando se hayan cumplido dos (2) suspensiones anteriores. Atentado contra los intereses patrimoniales y financieros del CASLA. Difamación por cualquier medio a las autoridades del club, a sus socios o a la institución misma. Condena por autoridad competente o mala conducta notoria que ocasione perjuicio al club. Agresión física o verbal cometida por un integrante de los órganos de gobierno a otro asociado o a cualquier otra persona, o la perpetrada por cualquier socio que por su gravedad torne insuficiente la pena de su suspensión Condena por delito o contravención cometida en perjuicio de la Institución. Ceder de cualquier manera a un tercero, el carné o título que permita el acceso a un acontecimiento deportivo organizado por el club, o en el que éste participe el club, en forma reiterada. Cualquier acción u omisión del socio contraria a la ley, al estatuto y a los acuerdos de la Asamblea de representantes o de la Comisión Directiva, que tenga gran trascendencia pública; entendiéndose que concurre dicha trascendencia cuando la acción tenga difusión en los medios de comunicación, exceda el ámbito asociativo y llegue a conocimiento general. La violación de secretos en asuntos que se conozcan en razón del cargo o del deber de confidencialidad asumidos en compromisos contractuales por el club. Cualquier acto dirigido a impedir, perturbar, predeterminar o alterar el normal desarrollo de sesiones de órganos colegiados del club, de las elecciones o de los resultados respectivos. Las conductas que alteren gravemente el desarrollo normal de un partido, prueba o competición, o que obliguen a su suspensión temporal o definitiva. Los actos, manifestaciones y conductas que, directa o indirectamente, induzcan o inciten a la violencia, o a la infracción de normas legales o reglamentarias preventivas. La introducción o posesión en las instalaciones o recintos del club, o en aquellos donde un equipo del club dispute un partido, prueba o competición, de pancartas, símbolos o emblemas que por su contenido o por las circunstancias en que se exhiban o utilicen, pueda ser considerado como un acto que incite, fomente o contribuya a los comportamientos violentos, sexistas, xenófobos o racistas, o de manifiesto desprecio a cualquier persona. La introducción, posesión, activación o lazamiento -en las instalaciones o recintos del club o en aquellos donde un equipo de la institución dispute un partido, prueba o competición- de todo tipo de armas o de objetos que pudiera producir los mismos efectos, así como bengalas, fumígenos o corrosivos. Los daños intencionados en el mobiliario o en las instalaciones o recintos del club o donde éste dispute una competencia deportiva. El directivo que por conducta dolosa haya generado perjuicio económico al club, previa sentencia condenatoria firme, de juez competente.",
-            "articulo 36": "36.1 La amonestación y la suspención por el término no mayor de un (1) año son medidas que aplica el Tribunal de Ética y Disciplina. La cesantía es impuesta por la Comisión Directiva. La expulsión, la suspensión por el término mayor a un (1) año y la accesoria de inhabilitación son impuestas por la Asamblea de representantes. 36.2 La suspensión tiene como efecto la privación temporaria de todo derecho estatutario, pero deja vigente todas las obligaciones del mismo carácter. La suspensión correra a partir de la firmeza de la suspensión. 36.3 El Tribunal de Ética y Disciplina solicita a la Asamblea de representantes la suspensión por tiempo mayor de un (1) año, la expulsión y la accesoria de inhabilitación. 36.4 La Comisión Directiva decretará la cesantía del socio que adeude seis (6) mensualidades consecutivas sin necesidad de intimación previa. Si se tratara de socios patrimoniales, la Comisión Directiva lo suspenderá en el ejercicio de sus derechos y el respectivo título patrimonial perderá su valor. 36.5 El socio que por cualquier causa es expulsado, sólo podrá reingresar por resolución fundada de la Asamblea de representantes."
+            "articulo 35": [
+                {
+                    "35.1": "Son infracciones leves sancionadas con amonestación:"
+                },
+                {
+                    "A": "Desacato a las resoluciones de la Asamblea de representantes o de la Comisión Directiva, siempre que no constituyan infracciones más graves."
+                },
+                {
+                    "B": "Trasgresión de las obligaciones y prohibiciones estatutarias."
+                },
+                {
+                    "35.2": "Son infracciones graves sancionadas con suspensión o cesantía:"
+                },
+                {
+                    "A": "Reincidencia en las causales del inciso anterior."
+                },
+                {
+                    "B": "Ceder de cualquier manera a un tercero, el carné o título que permita el acceso a un acontecimiento deportivo organizado por el club, o en el que éste participe el club."
+                },
+                {
+                    "C": "Agredir física o verbalmente a otro asociado o cualquier otra persona en las instalaciones o recintos del club."
+                },
+                {
+                    "D": "Encontrarse sometido a proceso por delito o contravención cometido en perjuicio de la institución."
+                },
+                {
+                    "E": "Incumplimiento en el pago de seis (6) cuotas mensuales consecutivas. El socio incurrirá en mora automática en su pago por el mero vencimiento del plazo fijado para el mismo, sin necesidad de notificación, intimación ni requerimiento de ningún tipo. La falta de requerimiento del pago no constituirá excusa eficiente al cumplimiento de esta obligación. La antigüedad como socio no se logra con el pago de cuotas anticipadas ni se recupera con el pago de cuotas vencidas o impagas si fuese dado de baja."
+                },
+                {
+                    "F": "No pagar el resarcimiento por daños o pérdidas que ocasione o de los que sea responsable con motivo del mal uso de las dependencias, elementos y otros bienes patrimoniales para la práctica de los deportes y de la biblioteca, ya sea que se trate del mismo socio o invitado traído por él."
+                },
+                {
+                    "35.3": "Son infracciones muy graves sancionadas con expulsión:"
+                },
+                {
+                    "A": "Reincidencia en nuevas faltas disciplinarias cuando se hayan cumplido dos (2) suspensiones anteriores."
+                },
+                {
+                    "B": "Atentado contra los intereses patrimoniales y financieros del CASLA."
+                },
+                {
+                    "C": "Difamación por cualquier medio a las autoridades del club, a sus socios o a la institución misma."
+                },
+                {
+                    "D": "Condena por autoridad competente o mala conducta notoria que ocasione perjuicio al club."
+                },
+                {
+                    "E": "Agresión física o verbal cometida por un integrante de los órganos de gobierno a otro asociado o a cualquier otra persona, o la perpetrada por cualquier socio que por su gravedad torne insuficiente la pena de su suspensión."
+                },
+                {
+                    "F": "Condena por delito o contravención cometida en perjuicio de la Institución."
+                },
+                {
+                    "G": "Ceder de cualquier manera a un tercero, el carné o título que permita el acceso a un acontecimiento deportivo organizado por el club, o en el que éste participe el club, en forma reiterada."
+                },
+                {
+                    "H": "Cualquier acción u omisión del socio contraria a la ley, al estatuto y a los acuerdos de la Asamblea de representantes o de la Comisión Directiva, que tenga gran trascendencia pública; entendiéndose que concurre dicha trascendencia cuando la acción tenga difusión en los medios de comunicación, exceda el ámbito asociativo y llegue a conocimiento general."
+                },
+                {
+                    "I": "La violación de secretos en asuntos que se conozcan en razón del cargo o del deber de confidencialidad asumidos en compromisos contractuales por el club."
+                },
+                {
+                    "J": "Cualquier acto dirigido a impedir, perturbar, predeterminar o alterar el normal desarrollo de sesiones de órganos colegiados del club, de las elecciones o de los resultados respectivos."
+                },
+                {
+                    "K": "Las conductas que alteren gravemente el desarrollo normal de un partido, prueba o competición, o que obliguen a su suspensión temporal o definitiva."
+                },
+                {
+                    "L": "Los actos, manifestaciones y conductas que, directa o indirectamente, induzcan o inciten a la violencia, o a la infracción de normas legales o reglamentarias preventivas."
+                },
+                {
+                    "M": "La introducción o posesión en las instalaciones o recintos del club, o en aquellos donde un equipo del club dispute un partido, prueba o competición, de pancartas, símbolos o emblemas que por su contenido o por las circunstancias en que se exhiban o utilicen, pueda ser considerado como un acto que incite, fomente o contribuya a los comportamientos violentos, sexistas, xenófobos o racistas, o de manifiesto desprecio a cualquier persona."
+                },
+                {
+                    "N": "La introducción, posesión, activación o lazamiento -en las instalaciones o recintos del club o en aquellos donde un equipo de la institución dispute un partido, prueba o competición- de todo tipo de armas o de objetos que pudiera producir los mismos efectos, así como bengalas, fumígenos o corrosivos."
+                },
+                {
+                    "O": "Los daños intencionados en el mobiliario o en las instalaciones o recintos del club o donde éste dispute una competencia deportiva."
+                },
+                {
+                    "P": "El directivo que por conducta dolosa haya generado perjuicio económico al club, previa sentencia condenatoria firme, de juez competente."
+                }
+            ],
+            "articulo 36": [
+                {
+                    "36.1": "La amonestación y la suspención por el término no mayor de un (1) año son medidas que aplica el Tribunal de Ética y Disciplina. La cesantía es impuesta por la Comisión Directiva. La expulsión, la suspensión por el término mayor a un (1) año y la accesoria de inhabilitación son impuestas por la Asamblea de representantes."
+                },
+                {
+                    "36.2": "La suspensión tiene como efecto la privación temporaria de todo derecho estatutario, pero deja vigente todas las obligaciones del mismo carácter. La suspensión correra a partir de la firmeza de la suspensión."
+                },
+                {
+                    "36.3": "El Tribunal de Ética y Disciplina solicita a la Asamblea de representantes la suspensión por tiempo mayor de un (1) año, la expulsión y la accesoria de inhabilitación."
+                },
+                {
+                    "36.4": "La Comisión Directiva decretará la cesantía del socio que adeude seis (6) mensualidades consecutivas sin necesidad de intimación previa. Si se tratara de socios patrimoniales, la Comisión Directiva lo suspenderá en el ejercicio de sus derechos y el respectivo título patrimonial perderá su valor."
+                },
+                {
+                    "36.5": "El socio que por cualquier causa es expulsado, sólo podrá reingresar por resolución fundada de la Asamblea de representantes."
+                }
+            ]
         }
     ],
     "Título cuarto - De las autoridades": [
         {
             "articulo 37": "El gobierno del Club Atlético San Lorenzo de Almagro reside: en la Asamblea de representantes, en la Comisión Directiva y en la Comisión Fiscalizadora, que son, respectivamente, su órgano legislativo, ejecutivo y fiscalizador. Sus miembros electivos reciben mandato de los socios con derecho a voto, mediante comicios organizados y realizados en el tiempo y forma de acuerdo a lo dispuesto en el capítulo 'De Las Elecciones'. Duran 4 (cuatro) años en sus funciones y pueden ser reelectos indefinidamente, salvo en los casos del Presidente y Vicepresidente 1º, que podrán ser reelectos por una sola vez en el mismo cargo.",
-            "articulo 38": "38.1 Para ser miembro de los órganos de gobierno y del Tribunal de Ética y Disciplina se requiere: Ser socio vitalicio o activo con más de diez años ininterrumpidos de antigüedad como tal al día de la elección. La antigüedad se reducirá a cinco años para ocupar el cargo de vocal (titular y suplente) en la Comisión Directiva. No haber sido condenado con sentencia firme como consecuencia de la comisión de delitos por autoridad judicial competente. No encontrarse inhabilitado de acuerdo al ordenamiento civil y comercial vigente en nuestro país. No ser miembro de otros órganos de gobierno de instituciones similares afiliadas a la Asociación del Fútbol Argentino. No tener participación ni intereses económicos en forma individual o a través de intermediarios o como integrante de sociedades en cualquiera de sus formas jurídicas, que tengan como actividad habitual, principal o secundaria, la representación y/o intermediación en la transferencia de deportistas y/o la contratación de técnicos de cualquier deporte. Será válido para sociedades constituídas dentro del país o en el exterior. 38.2 Los integrantes suplentes de los tres (3) órganos que gobiernan el club, pueden asistir a las reuniones de sus cuerpos, con voz pero sin voto y tienen la obligación de aceptar las funciones que sus mismos cuerpos les asignen, sea en los departamentos, comisiones, subcomisiones auxiliares o en otras especiales, salvo impedimento legítimo.",
+            "articulo 38": [
+                {
+                    "38.1": "Para ser miembro de los órganos de gobierno y del Tribunal de Ética y Disciplina se requiere:"
+                },
+                {
+                    "A": "Ser socio vitalicio o activo con más de diez años ininterrumpidos de antigüedad como tal al día de la elección. La antigüedad se reducirá a cinco años para ocupar el cargo de vocal (titular y suplente) en la Comisión Directiva."
+                },
+                {
+                    "B": "No haber sido condenado con sentencia firme como consecuencia de la comisión de delitos por autoridad judicial competente."
+                },
+                {
+                    "C": "No encontrarse inhabilitado de acuerdo al ordenamiento civil y comercial vigente en nuestro país."
+                },
+                {
+                    "D": "No ser miembro de otros órganos de gobierno de instituciones similares afiliadas a la Asociación del Fútbol Argentino."
+                },
+                {
+                    "E": "No tener participación ni intereses económicos en forma individual o a través de intermediarios o como integrante de sociedades en cualquiera de sus formas jurídicas, que tengan como actividad habitual, principal o secundaria, la representación y/o intermediación en la transferencia de deportistas y/o la contratación de técnicos de cualquier deporte. Será válido para sociedades constituídas dentro del país o en el exterior."
+                },
+                {
+                    "38.2": "Los integrantes suplentes de los tres (3) órganos que gobiernan el club, pueden asistir a las reuniones de sus cuerpos, con voz pero sin voto y tienen la obligación de aceptar las funciones que sus mismos cuerpos les asignen, sea en los departamentos, comisiones, subcomisiones auxiliares o en otras especiales, salvo impedimento legítimo."
+                }
+            ],
             "articulo 39": "Los miembros de los órganos de gobierno (Asamblea de representantes, Comisión Directiva y Comisión Fiscalizadora) gozan, durante el desempeño de sus cargos electivos, de la inmunidad necesaria para el resguardo de su independencia de criterio y sólo pueden ser enjuiciados como tales miembros y/o en su simple carácter de socios bajo los recaudos del artículo siguiente y concordantes.",
             "articulo 40": "El Tribunal de Ética y Disciplina, previa sustanciación del sumario en los términos del artículo 84 y concordantes, puede amonestar a los miembros de los órganos de gobierno en el carácter de tales. La suspensión, destitución y expulsión son de competencia exclusiva de la Asamblea de representantes. En caso de destitución, el pronunciamiento de la Asamblea de representantes puede limitarse a la destitución en el cargo electivo, a la destitución con más la accesoria de inhabilitación para ejercer cargos electivos y/o actuar en comisiones, departamentos del club y/o ser asesor, o extenderse a la expulsión del afectado en su condición de socio. En todos los casos las medidas que correspondan ser adoptadas por causas justificadas, previa formación del sumario que asegure el derecho de defensa y su secreto, y dictamen favorable del Tribunal de Ética y Disciplina. Los directivos y fiscalizadores contra quienes sus propios cuerpos pidan la destitución del cargo, quedarán suspendidos en el desempeño del mismo hasta tanto se pronuncie el Tribunal de Ética y Disciplina y la Asamblea de representantes. El plazo total del proceso no podrá ser superior a los seis (6) meses desde que el Tribunal de Ética y Disciplina tomó conocimiento del caso, debiendo el suspendido reincorporarse automáticamente ante ésta circunstancia.",
             "articulo 41": "Durante la sustanciación de una causa penal contra un miembro de cualquiera de los órganos de gobierno, si se dictare auto de procesamiento o acto procesal equivalente que conlleve una medida de restricción personal de la libertad individual del miembro procesado y ésta quedare firme, resultará suspendido en su cargo hasta que se dicte sentencia firme en el proceso.",
@@ -217,13 +396,109 @@
             "articulo 46": "La Asamblea de representantes es la autoridad suprema de la institución. Se integra con noventa asociados y asociadas, con una integración de mujeres que asegure la representatividad de las asociadas, en proporción siempre a la composición por género del total de la masa societaria vigente al 30 de junio del año en que se celebren las elecciones, en concordancia con el objeto de la Institución, distribuidos en grupos de dos tercios para la mayoria y un tercio para la o las minorías. Los miembros correspondientes a la minoría serán elegidos según el sistema de representación proporcional por cociente. Este cociente será el resultado de dividir la suma de los votos obtenidos por las listas minoritarias por el número de miembros que corresponden a la minoría, siempre que dichos votos sean superiores al cincuenta por ciento (50%) de los votos obtenidos por la mayoría. Si las minorías obtuvieran en total menos del cincuenta por ciento (50%) de los votos obtenidos por la mayoría, ésta participará del cociente para distribuir cargos con la minoría. Obtenido el número definitivo de los representantes para la mayoría, el resto de los cargos a ocupar se distribuirá entre la o las minorías según la relación entre votos obtenidos y y el cociente. En ningún caso las minorías, en conjunto, podrán tener menos de quince (15) representantes, cualesquiera fuera el número de votos obtenidos. En este caso, la mayoría cederá las diferencias en representantes a las fracciones según el número de votos de las minorías.",
             "articulo 47": "Dentro de los treinta (30) días de efectuados los comicios de renovación de autoridades, la Asamblea de representantes realizará una reunión especial para designar a los componentes de la Mesa Directiva, que será su órgano de conducción y que estará integrada por siete miembros, cuatro por la mayoría y tres por la minoría, distribuídos en dos para la primer minoría y uno para la segunda, si lo hubiera. La Mesa Directiva será presidida por el primer candidato a asambleísta de la lista mayoritaria e integrada por vicepresidente, secretario y un vocal de la mayoría, y un secretario de actas y dos vocales pertenecientes a la minoría. Cada lista que participó en las elecciones en la que se eligieron sus miembros, deberá a su vez designar un jefe de bloque quién tendrá como función representar con voz pero sin voto, a cada una de ellas ante la Mesa Directiva y ante las comisiones de la Asamblea de representantes. También designará a los miembros del Tribunal de Ética y Disciplina.",
             "articulo 48": "La Mesa Directiva de la Asamblea de representantes actuará como órgano permanente a los fines de satisfacer cualquier tipo de requerimiento administrativo que en el marco de lo establecido en este estatuto necesiten realizar los presidentes de las comisiones permanentes, los jefes de bloque, y/o los socios en general, en los casos que correspondan sobre asuntos que son de su competencia. Ocuparán el lugar físico que le sea otorgado por la Comisión Directiva el que deben ser acorde con la importancia de sus funciones y las de sus comisiones permanentes.",
-            "articulo 49": "La Asamblea de representantes funcionará con tres comisiones permanentes que tratarán y emitirán dictamen sobre: La Comisión de Poderes y Reglamentos: sobre aquellas cuestiones referidas a la interpretación o las modificaciones de este estatuto y/o de los demás reglamentos que estén a cargo de la Asamblea de representantes. La Comisión de Presupuesto: sobre aquellas cuestiones referidas al tratamiento del presupuesto anual de gastos y recursos, y aquellas vinculadas al tratamiento de los balances, memoria y demás estados contables del CASLA. La Comisión de Ética y Disciplina: sobre aquellas cuestiones referidas a las sanciones a aplicar a los miembros de los órganos y a cualquiera de los socios del CASLA y también sobre cualquier petición formulada por el Tribunal de Ética y Disciplina. Estas comisiones se integrarán por cinco miembros, tres por la lista que obtuvo la mayor cantidad de votos y dos por las listas que siguieron en órden de votación, y deberán dictaminar previamente a ser tratado por el plenario del cuerpo. Sus dictámenes no son vinculantes para el plenario del cuerpo de la Asamblea de representantes.",
-            "articulo 50": "La Asamblea de representantes se reunirá cada vez que sea debidamente convocada y será presidida por el presidente de la Mesa Directiva y/o por su vicepresidente, en caso de ausencia de aquél, y/o por su secretario. La Comisión Directiva es la autoridad competente para convocarla, pudiendo hacerlo también la Mesa Directiva de la Asamblea o la Comisión Fiscalizadora en los casos expresamente previstos en este estatuto o cuando la Comisión Directiva no cumpla o no pueda cumplir con la convocatoria cualesquiera sean las causas. La convocatoria se hará: En las ocasiones que determine este estatuto. Cuando la Comisión Directiva lo juzgue conveniente. Cuando lo soliciten no menos de los tres cuartos del total de los asambleístas o la mayoría absoluta de los miembros integrantes de la Mesa Directiva de la Asamblea de representantes y/o de la Comisión Fiscalizadora. Cuando lo solicitan no menos de cinco mil socios con derechos electorales a la fecha de la solicitud. Las peticiones formuladas de conformidad con lo dispuesto por los incisos c) y d) deberán ser resueltas por la Comisión Directiva dentro de los treinta días de formulada la solicitud. Si la Comisión Directiva no efectuara la convocatoria dentro de los plazos establecidos, el presidente de la Mesa Directiva de la Asamblea de representantes o de la Comisión Fiscalizadora, según el caso, tendrá la obligación de hacerlo directamente.",
+            "articulo 49": [
+                {
+                    "p1": "La Asamblea de representantes funcionará con tres comisiones permanentes que tratarán y emitirán dictamen sobre:"
+                },
+                {
+                    "A": "La Comisión de Poderes y Reglamentos: sobre aquellas cuestiones referidas a la interpretación o las modificaciones de este estatuto y/o de los demás reglamentos que estén a cargo de la Asamblea de representantes."
+                },
+                {
+                    "B": "La Comisión de Presupuesto: sobre aquellas cuestiones referidas al tratamiento del presupuesto anual de gastos y recursos, y aquellas vinculadas al tratamiento de los balances, memoria y demás estados contables del CASLA."
+                },
+                {
+                    "C": "La Comisión de Ética y Disciplina: sobre aquellas cuestiones referidas a las sanciones a aplicar a los miembros de los órganos y a cualquiera de los socios del CASLA y también sobre cualquier petición formulada por el Tribunal de Ética y Disciplina."
+                },
+                {
+                    "p2": "Estas comisiones se integrarán por cinco miembros, tres por la lista que obtuvo la mayor cantidad de votos y dos por las listas que siguieron en órden de votación, y deberán dictaminar previamente a ser tratado por el plenario del cuerpo. Sus dictámenes no son vinculantes para el plenario del cuerpo de la Asamblea de representantes."
+                }
+            ],
+            "articulo 50": [
+                {
+                    "p1": "La Asamblea de representantes se reunirá cada vez que sea debidamente convocada y será presidida por el presidente de la Mesa Directiva y/o por su vicepresidente, en caso de ausencia de aquél, y/o por su secretario. La Comisión Directiva es la autoridad competente para convocarla, pudiendo hacerlo también la Mesa Directiva de la Asamblea o la Comisión Fiscalizadora en los casos expresamente previstos en este estatuto o cuando la Comisión Directiva no cumpla o no pueda cumplir con la convocatoria cualesquiera sean las causas. La convocatoria se hará:"
+                },
+                {
+                    "A": "En las ocasiones que determine este estatuto."
+                },
+                {
+                    "B": "Cuando la Comisión Directiva lo juzgue conveniente."
+                },
+                {
+                    "C": "Cuando lo soliciten no menos de los tres cuartos del total de los asambleístas o la mayoría absoluta de los miembros integrantes de la Mesa Directiva de la Asamblea de representantes y/o de la Comisión Fiscalizadora."
+                },
+                {
+                    "D": "Cuando lo solicitan no menos de cinco mil socios con derechos electorales a la fecha de la solicitud."
+                },
+                {
+                    "p2": "Las peticiones formuladas de conformidad con lo dispuesto por los incisos c) y d) deberán ser resueltas por la Comisión Directiva dentro de los treinta días de formulada la solicitud. Si la Comisión Directiva no efectuara la convocatoria dentro de los plazos establecidos, el presidente de la Mesa Directiva de la Asamblea de representantes o de la Comisión Fiscalizadora, según el caso, tendrá la obligación de hacerlo directamente."
+                }
+            ],
             "articulo 51": "La convocatoria se hará mediante notificación personal por escrito, carta certificada con aviso de retorno o correo electrónico expedido con quince días de anticipación a la fecha de su realización. Con la convocatoria se pondrá a disposición de cada asambleista, los antecedentes de todos los asuntos comprendidos en el orden del día. La convocatoria se hará conocer asimismo y por el mismo procedimiento, a las agrupaciones reconocidas.",
             "articulo 52": "La entrada al recinto de la Asamblea de representantes será permitido solo a sus componentes. Los miembros de la Comisión Directiva, de la Comisión Fiscalizadora y del Tribunal de Ética y Disciplina tendrán acceso al recinto y voz para dar las razones de las medidas adoptadas por los órganos que integran. Podrán ser convocados expresamente, al igual que los miembros de la Comisión Fiscalizadora, por la Mesa Directiva a brindar explicaciones, efectuar aclaraciones y/o ampliar la fundamentación de las iniciativas puestas a consideración de la Asamblea de representantes. Podrá participar también un invitado propuesto por cualquier órgano directivo; la presencia del invitado en el recinto deberá ser aprobada por simple mayoría de los miembros presentes de la asamblea.",
             "articulo 53": "La Asamblea de representantes se constituirá, en primera convocatoria, con la presencia de más de la mitad del total de sus componentes, pero si no concurriese ese número, se celebrará una hora más tarde con los presentes, siempre que el mismo sea igual o mayor a un tercio de ese total. Si no se reuniera el mínimo de asambleístas necesarios, la Mesa Directiva hará una nueva convocatoria para celebrarla dentro de los treinta posteriores días, la que sesionará cualquiera sea el número de miembros presentes. En una u otra forma, sus acuerdos serán legalmente válidos, siempre que se hayan respetado el quórum y las mayorías estipuladas para el tratamiento de cada cuestión.",
             "articulo 54": "Las deliberaciones de la Asamblea de representantes serán dirigidas por el Presidente de su Mesa Directiva, por el vicepresidente o quién resulte, de entre sus miembros, el encargado de su reemplazo. Abierto el acto, se designarán tres asambleístas para que en representación de la asamblea, consideren, aprueben, y suscriban el acta respectiva, dentro de los diez días posteriores a la celebración del acto. De todo lo actuado se hará un relato sucinto en un libro especial de actas de asamblea, cuya confección y custodia estará a cargo del secretario de actas de la Mesa Directiva de la Asamblea de representantes, dejándose constancia de las resoluciones adoptadas, con la transcripción íntegra del texto a cada una de esas resoluciones. Terminada la consideración del orden del día, la Asamblea será levantada.",
-            "articulo 55": "La Asamblea de representantes es la única autoridad que puede: Entender en los recursos de apelación que se interpongan. Considerar el Memoria, Balance General e Inventario correspondiente al período comprendido entre el 1º de julio y el 30 de junio de cada año. Considerar el dictámen de la Comisión Fiscalizadora. Sancionar el estatuto y el reglamento general, agregar, suprimir o modificar cualquier disposición de los mismos, previa elevación por parte de la Comisión Directiva.Designar a los socios Honorarios. Decretar amnistía, indultos o condonaciones de penas, previo dictámen del Tribunal de Honor. Elegir a los miembros del Tribunal de Ética y Disciplina. Sancionar el presupuesto de gastos y el cálculo de recursos para cada año y considerar las modificaciones que se propongan. Resolver la afiliación o desafiliación a entidades dirigentes de actividades afines con los propósitos del Club Atlético San Lorenzo de Almagro. Decretar, con sujeción a las disposiciones de este estatuto, expulsiones o suspenciones por más de seis meses a socios y autoridades. Enjuiciar y destituir a sus miembros y a los miembros de los otros órganos de gobierno. A propuesta de la Comisión Directiva autorizar a esta a comprar, vender, ceder, aceptar, dar en fideicomiso, gravar, hipotecar o permutar bienes muebles e inmuebles; emitir y recuperar títulos patrimoniales; solicitar y obtener préstamos de instituciones bancarias oficiales y privadas o de personas particulares; emitir títulos representativos de deuda, fijar sus intereses, dar garantías y en general aprobar o desaprobar cualquier otro acto que comprometa más de del diez por ciento del capital. Rechazar o aceptar las renuncias de sus propios miembros. Declarar cesante al miembro que sin aviso justificado al Presidente de la Mesa Directiva, deje de asistir a dos convocatorias consecutivas o tres alternadas durante el término de su mandato. Darse su reglamento interno. Considerar todo otro asunto que le sea sometido por la Comisión Directiva por razon de disposiciones estatutarias o porque lo considere necesario al mejor gobierno de la institución. Designar sedes y filiales. La Asamblea de representantes además de las facultades que expresamente se le asignan, tienen todas las que no se confieren a ninguna otra autoridad. Convocar a plebiscito en los supuestos del artículo 107.",
+            "articulo 55": [
+                {
+                    "p1": "La Asamblea de representantes es la única autoridad que puede:"
+                },
+                {
+                    "A": "Entender en los recursos de apelación que se interpongan."
+                },
+                {
+                    "B": "Considerar el Memoria, Balance General e Inventario correspondiente al período comprendido entre el 1º de julio y el 30 de junio de cada año."
+                },
+                {
+                    "C": "Considerar el dictámen de la Comisión Fiscalizadora."
+                },
+                {
+                    "D": "Sancionar el estatuto y el reglamento general, agregar, suprimir o modificar cualquier disposición de los mismos, previa elevación por parte de la Comisión Directiva."
+                },
+                {
+                    "E": "Designar a los socios Honorarios."
+                },
+                {
+                    "F": "Decretar amnistía, indultos o condonaciones de penas, previo dictámen del Tribunal de Honor."
+                },
+                {
+                    "G": "Elegir a los miembros del Tribunal de Ética y Disciplina."
+                },
+                {
+                    "H": "Sancionar el presupuesto de gastos y el cálculo de recursos para cada año y considerar las modificaciones que se propongan."
+                },
+                {
+                    "I": "Resolver la afiliación o desafiliación a entidades dirigentes de actividades afines con los propósitos del Club Atlético San Lorenzo de Almagro."
+                },
+                {
+                    "J": "Decretar, con sujeción a las disposiciones de este estatuto, expulsiones o suspensiones por más de seis meses a socios y autoridades."
+                },
+                {
+                    "K": "Enjuiciar y destituir a sus miembros y a los miembros de los otros órganos de gobierno."
+                },
+                {
+                    "L": "A propuesta de la Comisión Directiva autorizar a esta a comprar, vender, ceder, aceptar, dar en fideicomiso, gravar, hipotecar o permutar bienes muebles e inmuebles; emitir y recuperar títulos patrimoniales; solicitar y obtener préstamos de instituciones bancarias oficiales y privadas o de personas particulares; emitir títulos representativos de deuda, fijar sus intereses, dar garantías y en general aprobar o desaprobar cualquier otro acto que comprometa más de del diez por ciento del capital."
+                },
+                {
+                    "M": "Rechazar o aceptar las renuncias de sus propios miembros."
+                },
+                {
+                    "N": "Declarar cesante al miembro que sin aviso justificado al Presidente de la Mesa Directiva, deje de asistir a dos convocatorias consecutivas o tres alternadas durante el término de su mandato."
+                },
+                {
+                    "O": "Darse su reglamento interno."
+                },
+                {
+                    "P": "Considerar todo otro asunto que le sea sometido por la Comisión Directiva por razon de disposiciones estatutarias o porque lo considere necesario al mejor gobierno de la institución."
+                },
+                {
+                    "Q": "Designar sedes y filiales."
+                },
+                {
+                    "R": "La Asamblea de representantes además de las facultades que expresamente se le asignan, tienen todas las que no se confieren a ninguna otra autoridad."
+                },
+                {
+                    "S": "Convocar a plebiscito en los supuestos del artículo 107."
+                }
+            ],
             "articulo 56": "Las Asambleas son ordinarias y extraordinarias. Las resoluciones que se adopten serán por el voto de más de la mitad de los presentes, salvo los casos determinados en los incisos d), e), f), g), i), j), k) y l) del artículo anterior que lo serán por el voto de por lo menos tres cuartos de sus miembros totales.",
             "articulo 57": "57.1 La Asamblea ordinaria deberá realizarse durante: La primera quincena del mes de diciembre para considerar lo dispuesto en los incisos b) y c) del artículo 55º. La segunda quincena del mes de julio para considerar lo expresado por el inciso h) del mismo artículo. 57.2 La Asamblea extraordinaria se realizará cuando se la convoque para considerar los asuntos que se especifiquen.",
             "articulo 58": "La Comisión Directiva estará integrada por veinte (20) miembros, varones y mujeres, con una integración de mujeres que asegure la representatividad de las asociadas, en proporción siempre a la composición por género del total de la masa societaria vigente al 30 de junio del año en que se celebren elecciones, en concordancia con el objeto de la institución. Los cargos de presidente y vicepresidente 1º se elegirán en los comicios en forma directa, pudiendo ser reelectos por un solo período consecutivo. Los cargos de vicepresidente 2º, secretario general, tesorero, intendente, secretario de actas, prosecretario general, protesorero y subintendente los distribuira el presidente anualmente en reunión ordinaria del cuerpo, entre los candidatos electos que registren 10 años de antigüedad ininterrumpida como socio. Los restantes diez (10) miembros se desempeñarán como vocales. En su sesión constitutiva o cuando fuere necesario, por el voto de más de la mitad del total de sus componentes, fijará el lugar, los días y hora en que se habrán de celebrar sesiones ordinarias. El cargo de integrante de la Comisión Directiva es personal e indelegable.",
